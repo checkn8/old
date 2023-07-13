@@ -21,13 +21,12 @@
 title: Nate's Workshop
 email: nathanielbudiardjo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hey! This is a collection of my projects and about me. Feel free to connect with me on Linkedin and 
+  shoot me a message about anything! 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nateeeeworkshop.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  checkn8
 
 # Build settings
 theme: minima
